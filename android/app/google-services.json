@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "528585738979",
+    "firebase_url": "https://lessthan-64635.firebaseio.com",
+    "project_id": "lessthan-64635",
+    "storage_bucket": "lessthan-64635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528585738979:android:b035613ca25e1f64",
+        "android_client_info": {
+          "package_name": "com.bromaa.lessthan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528585738979-hpb39gbunj8092c2euui7v4k7925o3t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfmm9ywhFFOBqZbZ7R0C-f384M2VbII1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528585738979-hpb39gbunj8092c2euui7v4k7925o3t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3550458721470380~9627330665"
+    }
+  ],
+  "configuration_version": "1"
+}
